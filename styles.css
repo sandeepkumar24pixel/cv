@@ -1,0 +1,43 @@
+body {
+  background-color: #c6ebc9;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+
+h1 {
+  color: #54e346;
+}
+
+h3 {
+  color: #a685e2;
+  font-family: sans-serif;
+}
+
+p {
+  font-family: cursive;
+}
+
+li {
+  font-family: cursive;
+}
+
+th {
+  font-family: cursive;
+  color: #ff9d72
+}
+
+td {
+  font-family: cursive;
+  color: #cd5d7d
+}
+
+a {
+  font-family: cursive;
+  color: #11698e;
+}
